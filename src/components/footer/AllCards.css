@@ -1,0 +1,35 @@
+.MainContent{
+    max-width: 1080px;
+    margin: 85px auto 0 auto;
+    background-color: white;
+    border-radius: 20px 20px 0 0;
+    padding: 0 45px;
+}
+.Cards{
+    margin-top: 45px;
+    display:flex ;
+    flex-wrap: wrap ;
+    margin: auto;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+.photograf1{
+    margin-top: 20px;
+
+}
+.cost{
+    opacity: 50%;
+}
+.textofcurd{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.photo1{
+    width: 133px;
+    height: 133px;
+}
+#AddToFavButton{
+    position: absolute;
+    z-index: 2;
+    margin: 5px;
+}

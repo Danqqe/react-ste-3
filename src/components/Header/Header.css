@@ -1,0 +1,30 @@
+.mainHeader {
+    max-width: 1080px;
+    margin: 0 auto 0 auto;
+    background-color: white;
+    border-radius: 20px 20px 0 0;
+    border-bottom: 1px solid #EAEAEA;
+    padding: 0 45px;
+}
+
+.leftHeader {
+    display: flex;
+}
+
+.leftHeader .leftHeaderText {
+    display: flex;
+    flex-direction: column;
+}
+.src{
+    margin-right: 21px;
+}
+.srcicon{
+    margin-top: 5px;
+    margin-right: 20px;
+}
+.textofbar{
+    font-size: 20px;
+}
+.textofbar2{
+    font-size: 14px;
+}
